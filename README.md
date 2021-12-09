@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alegithub72 and I'm a Java Senior Developer .
 - 👀 I’m work with Java and EE technology (look at [Bookshop](https://github.com/alegithub72/bookshop) EE application), but I develop ,for hobby, also some game in JavaFX, with the support of Blender to model characters and  scenario design.
-- 🌱 I’m currently learning JavaFX, look to my  Checkers Game (space invaders style ) in this repository: [CheckersJavaFXGame](https://github.com/alegithub72/checkersjavafx) ,[setup-installer](https://github.com/alegithub72/alegithub72/blob/main/cinvaders-x64bit-4.0.exe) .
+- 🌱 I’m currently learning JavaFX, look to my  Checkers Game (space invaders style ) in this repository: [CheckersJavaFXGame](https://github.com/alegithub72/checkersjavafx) ,[CheckersJavaFXGame-Setup-installer](https://github.com/alegithub72/alegithub72/raw/main/cinvaders-x64bit-4.0.exe) .
 - 📫 How to reach me :<sardaro.alessio@gmail.com> .
 
 <!---
