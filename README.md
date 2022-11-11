@@ -4,11 +4,15 @@
  
 - 📫 How to reach me :<sardaro.alessio@gmail.com> .
 
+***
+
 Some Screenshot:<br>
 <img src="https://github.com/alegithub72/checkersjavafx/blob/master/screesho_check_1.PNG" width="200" height="200" />
 <img src="https://github.com/alegithub72/checkersjavafx/blob/master/screesho_check_4.PNG" width="200" height="200" />
 <img src="https://github.com/alegithub72/checkersjavafx/blob/master/screesho_check_2.PNG" width="200" height="200" />
 <img src="https://user-images.githubusercontent.com/26597373/120817503-111c7580-c552-11eb-8c13-77db49ea5240.PNG" width="200" height="200" />
+
+***
 
 <!---
 alegithub72/alegithub72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
